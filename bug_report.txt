@@ -1,1 +1,22 @@
+bug report structure
+ID #
+Bild or module #
+Severity Blocked/Critical/Major/Minor/Trivial
+Priority High/Medium/Low
+Date Submitted date time
+Last updated date time
+Reporter Name Surname
+Assigned to Name Surname
+Status New/Open/Fixed/Duplicate/Verified/Reopened/Closed/Rejected/Deferred/Not a bug
+Environment
+Platform Browser&version
+OS&version Windows/Linux/Mac or etc.
+Device desktop/mobile
+Summary Expound the detected error
+Description Describe the detected error
+STR Type Type a sequence of steps to reproduce the error
+Expected result Type the expected product result
+Actual result Type the actual product result
+Attached files Attach files with error to bug report
+Edition information Type edition information if it is required
 
